@@ -15,7 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: -2115
-    y: 32
+    y: 51
     width: 1605
     height: 888
   m_ShowMode: 4
@@ -532,8 +532,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -2115
-    y: 87
+    x: 0
+    y: 24
     width: 315
     height: 580
   m_SerializedDataModeController:
@@ -550,8 +550,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84b5feff
-      m_LastClickedID: -84604
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 84b5feff6a44ffffdc44ffff8052ffffea64ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -598,8 +598,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -1799
-    y: 87
+    x: 317
+    y: 24
     width: 1011
     height: 580
   m_SerializedDataModeController:
@@ -1156,7 +1156,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2.0793018, y: -3.7607133, z: 14.707057}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 2.0793018, y: -3.7607133, z: 14.707057}
   m_RenderMode: 0
@@ -1206,9 +1206,9 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0.000000006657127, y: 0.00000006869945, z: -0.000000016071727, w: -0.99999994}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 16.843048
+    m_Target: 10
     speed: 2
     m_Value: 16.843048
   m_Ortho:
@@ -1279,7 +1279,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_ViewTransforms:
     m_KeySerializationHelper:
-    - {fileID: -4390032855004223467, guid: a2cadf7bf7b36b74e96f79417f64f062, type: 2}
+    - {fileID: 2735430168097598352, guid: a2cadf7bf7b36b74e96f79417f64f062, type: 2}
     m_ValueSerializationHelper:
     - e00: 1
       e01: 0
@@ -1373,8 +1373,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -2115
-    y: 693
+    x: 0
+    y: 24
     width: 439
     height: 200
   m_SerializedDataModeController:
@@ -1409,8 +1409,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -1675
-    y: 693
+    x: 441
+    y: 24
     width: 380
     height: 200
   m_SerializedDataModeController:
@@ -1454,7 +1454,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8ad60000
     m_LastClickedID: 54922
-    m_ExpandedIDs: 000000008ad6000000ca9a3b
+    m_ExpandedIDs: 00000000ead70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1483,7 +1483,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008ad60000
+    m_ExpandedIDs: 00000000ead70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1562,8 +1562,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -1293
-    y: 693
+    x: 823
+    y: 24
     width: 505
     height: 200
   m_SerializedDataModeController:
@@ -1607,7 +1607,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: a0d70000
     m_LastClickedID: 55200
-    m_ExpandedIDs: 000000008ad600006ed7000000ca9a3b
+    m_ExpandedIDs: 00000000ead70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1636,7 +1636,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008ad60000
+    m_ExpandedIDs: 00000000ead70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1715,8 +1715,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -786
-    y: 87
+    x: 1
+    y: 24
     width: 275
     height: 522
   m_SerializedDataModeController:
@@ -1764,8 +1764,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Preview\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -786
-    y: 635
+    x: 1
+    y: 572
     width: 275
     height: 258
   m_SerializedDataModeController:
