@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1a8e976a4cc9cbf42b8219f585050125
+guid: dcfa66e1535ee80438303b20ea8889cf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Block_Sprite_0
+      name: apple-sheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 26
-        width: 13
-        height: 13
+        y: 112
+        width: 119
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,20 +112,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 065459a3ddb5cf5419bcb50ce8902b2d
-      internalID: 1786124006
+      spriteID: fef4f4afc60446542aafff5082d54665
+      internalID: 980761733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block_Sprite_1
+      name: apple-sheet_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 26
-        width: 13
-        height: 13
+        x: 119
+        y: 112
+        width: 119
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08c9917f650dc644788c1d5f00be97e6
-      internalID: 189388805
+      spriteID: 337796f19479fb747b031c4ea25d4017
+      internalID: -1124260841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block_Sprite_2
+      name: apple-sheet_2
       rect:
         serializedVersion: 2
-        x: 26
-        y: 26
-        width: 13
-        height: 13
+        x: 238
+        y: 112
+        width: 119
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,86 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a895726a02bc6441b93c5660e6e550e
-      internalID: -2065022852
+      spriteID: 07e4b84e58290ba4784f8dc668a35789
+      internalID: -468048968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block_Sprite_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 13
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51efc6a327a91614a9a50e659c3225f8
-      internalID: -2109001040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Block_Sprite_4
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 13
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48c80a22838595841b7758325bf534b3
-      internalID: 990440956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Block_Sprite_5
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 13
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62457e576dce05e4f9f48f3bca838a64
-      internalID: 1954351543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Block_Sprite_6
+      name: apple-sheet_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 13
-        height: 13
+        width: 119
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b082f42662a92544856605ba11e0638
-      internalID: 27465760
+      spriteID: 406e344416073fb45b48950247575a68
+      internalID: -1221392544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Block_Sprite_7
+      name: apple-sheet_4
       rect:
         serializedVersion: 2
-        x: 13
+        x: 119
         y: 0
-        width: 13
-        height: 13
+        width: 119
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 799c5ad0c66f3e64da9f83b9b1b21949
-      internalID: -1648646363
+      spriteID: fa1b47bb8131f9c428481ec3a41d3d22
+      internalID: -867991853
       vertices: []
       indices: 
       edges: []
@@ -276,7 +210,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6ab76c5845b59554ea846122df613896
+    spriteID: 953e0b66776bc974cafc1d18eec09335
     internalID: 0
     vertices: []
     indices: 
@@ -286,14 +220,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Block_Sprite_0: 1786124006
-      Block_Sprite_1: 189388805
-      Block_Sprite_2: -2065022852
-      Block_Sprite_3: -2109001040
-      Block_Sprite_4: 990440956
-      Block_Sprite_5: 1954351543
-      Block_Sprite_6: 27465760
-      Block_Sprite_7: -1648646363
+      apple-sheet_0: 980761733
+      apple-sheet_1: -1124260841
+      apple-sheet_2: -468048968
+      apple-sheet_3: -1221392544
+      apple-sheet_4: -867991853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
